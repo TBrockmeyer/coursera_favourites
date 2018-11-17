@@ -24,3 +24,15 @@ This collection shall allow to revise the key messages of my favourite coursera 
 How to create and format line plots and bar charts with Python packages numpy, matplotlib and pandas; including how to handle datetime formats properly using Pandas
 
 [iPython notebook with summary notes and executable code cells](applied_data_science/line_and_bar_plots.ipynb)
+
+### Applied Text Mining in Python
+This course will introduce the learner to text mining and text manipulation basics. The course begins with an understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text. 
+
+[Link to coursera course](https://www.coursera.org/learn/python-text-mining)
+
+#### Module 1: Working with Text in Python
+Aim of this module: understanding of how text is handled by python, the structure of text both to the machine and to humans, and an overview of the nltk framework for manipulating text
+
+Focus of the summary provided here is on the content of the video "Regex with Pandas and Named Groups".
+
+[iPython notebook with summary notes and executable code cells](applied_data_science/regex_with_pandas.ipynb)
