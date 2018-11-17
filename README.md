@@ -20,6 +20,5 @@ This collection shall allow to revise the key messages of my favourite coursera 
 
 #### Module 2: Basic Charting
 How to create and format line plots and bar charts with Python packages numpy, matplotlib and pandas; including how to handle datetime formats properly using Pandas
-[iPython notebook with summary notes and executable code cells]()
 
-[Link to coursera course]
+[iPython notebook with summary notes and executable code cells](applied_data_science/line_and_bar_plots.ipynb)
