@@ -36,3 +36,10 @@ Aim of this module: understanding of how text is handled by python, the structur
 Focus of the summary provided here is on the content of the video "Regex with Pandas and Named Groups".
 
 [iPython notebook with summary notes and executable code cells](applied_data_science/regex_with_pandas.ipynb)
+
+#### Module 2: Basic Natural Language Processing
+In this module, we dive deeper into the use of nltk for exploring word frequencies in a text, reasonably splitting text into word tokens and sentences, and deriving words back to their roots and stems.
+
+Focus of the summary provided here is on the content of the video "Basic NLP tasks with NLTK"
+
+[iPython notebook with summary notes and executable code cells](applied_data_science/basic_nlp_with_nltk.ipynb)
